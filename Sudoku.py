@@ -1,6 +1,5 @@
 from dokusan import generators
 import numpy as np
-import numpy as np
 
 board3 = [
         [0, 1, 0, 0, 0, 2, 0, 0, 8],
