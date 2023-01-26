@@ -10,4 +10,4 @@ For easy (enter 1), for medium (enter 2), or for hard (enter 3).
 
 3) Click on an empty board and press the number on your keyboard that you think fits in that position. This will pencil in the value on the sudoku board, if you want to test that value press enter.
 
-4) Finally to see the backtracking algorithm work press SPACE and it will you the implementation of the algorithm.
+4) Finally to see the backtracking algorithm work press SPACE and it will show you the implementation of the algorithm.
